@@ -8,4 +8,4 @@ Introduction: An overview of the PCB. Social Media Links: Quick access to PCB's 
 HTML: For the website's structure.
 CSS: For color.
 
-Live: 
+Live: https://pcbluqman.netlify.app/
